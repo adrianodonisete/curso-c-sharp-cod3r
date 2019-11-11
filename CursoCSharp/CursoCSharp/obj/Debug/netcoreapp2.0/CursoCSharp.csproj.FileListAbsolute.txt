@@ -12,3 +12,16 @@ c:\users\cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\Curs
 C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
 C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
 C:\Users\Cod3r\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CopyComplete
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.deps.json
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.json
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CopyComplete
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+C:\Nuvem\GoogleDriver\TI\csharp\cod3r-curso\projects\curso-c-sharp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb

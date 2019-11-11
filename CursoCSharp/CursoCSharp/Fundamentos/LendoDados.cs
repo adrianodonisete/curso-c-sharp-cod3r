@@ -5,7 +5,8 @@ namespace CursoCSharp.Fundamentos
 {
     class LendoDados
     {
-        public static void Executar() {
+        public static void Executar()
+        {
             Console.Write("Qual é o seu nome? ");
             string nome = Console.ReadLine();
 

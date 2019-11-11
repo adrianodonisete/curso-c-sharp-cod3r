@@ -6,7 +6,8 @@ namespace CursoCSharp.Fundamentos
 {
     class Interpolacao
     {
-        public static void Executar() {
+        public static void Executar()
+        {
             string nome = "Notebook Gamer";
             string marca = "Dell";
             double preco = 5800.00;
